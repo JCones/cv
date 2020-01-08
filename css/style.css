@@ -1,0 +1,26 @@
+body{
+	font-family: "Montserrat";
+	text-align: center;
+	background-color:#393939;
+	
+	}
+
+.topt{
+	background-color: #b30000;
+	text-align: right;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.big-heading{
+	font-size: 32px;
+}
+
+h1, h2, h3, p{
+	font-family: "Montserrat";
+	color: #fff;
+}
+
+.smiley{
+	padding-right: 7%;
+}
